@@ -1,7 +1,5 @@
 # Phishing Email Detection & Awareness System
 
-**Future Interns -- Cyber Security Task 2 (2026)**
-
 ## Overview
 
 This project documents a safe, static analysis of a publicly sourced
